@@ -213,12 +213,15 @@ i {
       top: 96.6%;
     }
     .our-favorites {
-      padding-bottom: 100%;
+      padding-bottom: 140%;
+    }
+    .favorite-teas {
+      font-size: 46px;
     }
     .teapot {
       position:absolute;
       right: 0;
-      top: 75%;
+      top: 90%;
       width: 100%;
      }
      .divider-2 {
@@ -226,7 +229,7 @@ i {
        top: 98.8%;
      }
      .features {
-       padding: 5% 2% 140%;
+       padding: 5% 2% 160%;
      }
      .features-left {
        position: absolute;
@@ -237,14 +240,14 @@ i {
        padding-bottom: 8%;
        position: absolute;
        left: 3%;
-       top: 62%;
+       top: 80%;
        width: 90%;
      }
      .features-right {
        position: absolute;
        margin: 0;
        right: 5%;
-       top: 20.8%;
+       top: 22%;
      }
      .divider-3 {
        position: absolute;
