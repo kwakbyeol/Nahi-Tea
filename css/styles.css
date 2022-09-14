@@ -220,7 +220,7 @@ i {
       padding-left:4%;
     }
     .favorite-teas {
-      padding: 8%;
+      padding: 4%;
     }
     .teapot {
       position:absolute;
@@ -230,6 +230,7 @@ i {
      }
      .divider-2 {
        position: absolute;
+       left: -4%;
        top: 99%;
      }
      .features {
