@@ -1,0 +1,253 @@
+body {
+  background-color: #F7EDDB;
+  margin: 0;
+  padding: 0;
+}
+.navbar {
+  padding: 0;
+}
+.navbar-brand {
+  padding: 1% 0 0 2%;
+}
+.logo-text {
+  font-family: 'Sacramento', cursive;
+  font-size: 38px;
+  line-height: 0.5;
+}
+.mb-1 {
+  padding-bottom: 12%;
+}
+.container-fluid {
+  padding: 0;
+}
+#home {
+  background-image: url(../images/teabackground.png);
+  padding: 15% 0;
+  position: relative;
+}
+.row {
+  margin: 0;
+}
+#tea-carousel {
+  margin-top: -61.4%;
+  padding-left: 4.6%;
+  width: 95.5%;
+  opacity: 80%;
+}
+.frame {
+  position: relative;
+  width: 100%;
+  z-index: 999;
+}
+.title-1 {
+  color: #483838;
+  font-family: 'Pacifico', cursive;
+  font-size: 5vw;
+  margin: 8% 0 0 0;
+  text-align: center;
+}
+.title-2 {
+  color: #42855B;
+  font-family: 'Concert One', cursive;
+  font-size: 8.6vw;
+  margin: 0;
+  text-align: center;
+}
+.title-3 {
+  color: #483838;
+  font-size: 20px;
+  line-height: 1.8;
+  margin: 0 6%;
+}
+.divider {
+  position: absolute;
+  top: 92%;
+  width: 100%;
+  z-index: 999;
+}
+.our-favorites {
+  background-color: #DAE2B6;
+  padding-bottom: 5%;
+  position: relative;
+}
+.favorite-teas {
+  color: #483838;
+  font-family: 'Pacifico', cursive;
+  font-size: 50px;
+  padding: 5% 19%;
+}
+.flavors-container {
+  margin-left: 4%;
+  padding-bottom: 1%;
+}
+#flavors-1 {
+  margin: 0;
+  padding: 0;
+}
+#flavors-2 {
+  margin: 0;
+  padding: 0;
+}
+#flavors-3 {
+  margin: 0;
+  padding: 0;
+}
+#flavors-4 {
+  margin: 0;
+  padding: 0;
+}
+.flavors-img {
+  padding: 2% 5% 2% 0;
+  width: 48%;
+}
+.flavors-text {
+  margin: 0;
+  padding: 0 10% 0 0;
+  text-align: center;
+}
+h3 {
+  font-size: 26px;
+}
+.teapot {
+  position: absolute;
+  right: 0%;
+  top: 26%;
+  width: 34%;
+}
+.divider-2 {
+  position: absolute;
+  top: 93.4%;
+  width: 100%;
+  z-index: 999;
+}
+.features {
+  padding: 5% 2% 8%;
+  position: relative;
+}
+.features-title {
+  color: #483838;
+  font-family: 'Pacifico', cursive;
+  font-size: 50px;
+  padding-bottom: 5%;
+  text-align: center;
+}
+.features-left {
+  display: inline-block;
+}
+.features-right {
+  display: inline-block;
+  margin-left: 51%;
+  margin-right: 0;
+  padding: 0;
+  text-align: right;
+}
+.features-text {
+  display: inline-block;
+}
+.features-text-2 {
+  display: inline-block;
+  text-align: right;
+}
+.teacup {
+  position: absolute;
+  margin: 0;
+  padding: 0;
+  top: 31%;
+  width: 48%;
+}
+i {
+  color: #42855B;
+}
+.divider-3 {
+  position: absolute;
+  left: 0;
+  top: 89%;
+  width: 100%;
+  z-index: 999;
+}
+.bonus {
+  background-color: #DAE2B6;
+  padding: 5% 2%;
+}
+.bonus-title {
+  color: #483838;
+  font-family: 'Pacifico', cursive;
+  font-size: 50px;
+  padding-bottom: 5%;
+  text-align: center;
+}
+.matcha-kit {
+  padding: 3%;
+  width: 100%;
+}
+.gift-title {
+  color: #42855B;
+  font-family: 'Pacifico', cursive;
+  font-size: 36px;
+  padding: 3%;
+  text-align: center;
+}
+.gift-text {
+  color: #483838;
+  font-size: 20px;
+  line-height: 1.8;
+  margin: 0 3%;
+}
+.subscribe-button {
+  padding: 5% 0;
+  text-align: center;
+}
+.btn {
+  background-color: #42855B;
+  border: none;
+  font-family: 'Concert One', cursive;
+  font-size: 30px;
+  padding: 1% 4%;
+}
+.btn:hover {
+  --bs-btn-hover-bg: #90B77D;
+}
+@media screen and (max-width: 600px) {
+    .divider {
+      position: absolute;
+      top: 96.6%;
+    }
+    .our-favorites {
+      padding-bottom: 100%;
+    }
+    .teapot {
+      position:absolute;
+      right: 0;
+      top: 75%;
+      width: 100%;
+     }
+     .divider-2 {
+       position: absolute;
+       top: 98.8%;
+     }
+     .features {
+       padding: 5% 2% 140%;
+     }
+     .features-left {
+       position: absolute;
+       top: 15%;
+       left: 5%;
+     }
+     .teacup {
+       padding-bottom: 8%;
+       position: absolute;
+       left: 3%;
+       top: 62%;
+       width: 90%;
+     }
+     .features-right {
+       position: absolute;
+       margin: 0;
+       right: 5%;
+       top: 20.8%;
+     }
+     .divider-3 {
+       position: absolute;
+       top: 96.6%;
+     }
+}
