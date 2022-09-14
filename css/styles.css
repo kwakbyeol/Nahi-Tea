@@ -216,12 +216,12 @@ i {
       padding-bottom: 130%;
     }
     .favorite-teas {
-      font-size: 40px;
+      padding: 5% 0;
     }
     .teapot {
       position:absolute;
       right: 0;
-      top: 70%;
+      top: 80%;
       width: 100%;
      }
      .divider-2 {
@@ -254,6 +254,6 @@ i {
        top: 96.6%;
      }
      .btn {
-       padding-bottom: 2%;
+       padding-bottom: 4%;
      }
 }
