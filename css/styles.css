@@ -213,18 +213,18 @@ i {
     }
     .divider {
       position: absolute;
-      top: 96.6%;
+      top: 98%;
     }
     .our-favorites {
       padding-bottom: 130%;
     }
     .favorite-teas {
-      padding: 5%;
+      padding: 8%;
     }
     .teapot {
       position:absolute;
       right: 0;
-      top: 75%;
+      top: 77%;
       width: 100%;
      }
      .divider-2 {
@@ -254,7 +254,7 @@ i {
      }
      .divider-3 {
        position: absolute;
-       top: 96.6%;
+       top: 97.4%;
      }
      .btn {
        padding-bottom: 6%;
