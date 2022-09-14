@@ -210,6 +210,7 @@ i {
 @media screen and (max-width: 600px) {
     #home {
       padding: 20% 0 15% 0;
+    }
     .divider {
       position: absolute;
       top: 96.6%;
