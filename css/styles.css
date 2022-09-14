@@ -208,6 +208,8 @@ i {
   --bs-btn-hover-bg: #90B77D;
 }
 @media screen and (max-width: 600px) {
+    #home {
+      padding: 20% 0 15% 0;
     .divider {
       position: absolute;
       top: 96.6%;
@@ -216,12 +218,12 @@ i {
       padding-bottom: 130%;
     }
     .favorite-teas {
-      padding: 5% 0;
+      padding: 5%;
     }
     .teapot {
       position:absolute;
       right: 0;
-      top: 80%;
+      top: 75%;
       width: 100%;
      }
      .divider-2 {
@@ -254,6 +256,6 @@ i {
        top: 96.6%;
      }
      .btn {
-       padding-bottom: 4%;
+       padding-bottom: 6%;
      }
 }
