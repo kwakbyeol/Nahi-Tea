@@ -201,6 +201,7 @@ i {
 .btn {
   background-color: #42855B;
   border: none;
+  color: #F7EDDB;
   font-family: 'Concert One', cursive;
   font-size: 30px;
   padding: 1% 4%;
@@ -364,7 +365,7 @@ i {
        top: 98.4%;
      }
      .box-title {
-       font-size: 44px;
+       font-size: 42px;
      }
      .flower-decoration {
        margin: 0 2.2%;
@@ -372,10 +373,14 @@ i {
      }
      .divider-5 {
        position: absolute;
-       top: 98.6%;
+       top: 98%;
      }
      .testimonials-title {
        font-size: 44px;
+     }
+     .testimonials-text {
+       padding: 0 10%;
+       text-align: center;
      }
 }
 .music-player {
