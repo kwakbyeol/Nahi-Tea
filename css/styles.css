@@ -296,6 +296,10 @@ i {
   padding: 5%;
   text-align: center;
 }
+.stars {
+  padding-bottom: 3%;
+  text-align: center;
+}
 .testimonials-text {
   padding: 0 10%;
   text-align: center;
