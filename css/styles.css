@@ -367,3 +367,13 @@ i {
        top: 97.2%;
      }
 }
+.music-player {
+  border: none;
+  background-color: #90B77D;
+}
+.replay {
+  -webkit-text-stroke: 1px #42855B;
+}
+.controls {
+  background-color: #90B77D
+}
