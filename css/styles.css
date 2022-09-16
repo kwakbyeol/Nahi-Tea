@@ -359,13 +359,23 @@ i {
      .btn {
        padding-bottom: 6%;
      }
-  .divider-4 {
+     .divider-4 {
        position: absolute;
-       top: 97.6%;
+       top: 98.4%;
+     }
+     .box-title {
+       font-size: 44px;
+     }
+     .flower-decoration {
+       margin: 0 2.2%;
+       width: 18%;
      }
      .divider-5 {
        position: absolute;
-       top: 97.2%;
+       top: 98.6%;
+     }
+     .testimonials-title {
+       font-size: 44px;
      }
 }
 .music-player {
