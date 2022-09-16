@@ -207,6 +207,103 @@ i {
 .btn:hover {
   --bs-btn-hover-bg: #90B77D;
 }
+.divider-4 {
+  position: absolute;
+  left: 0;
+  top: 92%;
+  width: 100%;
+  z-index: 999;
+}
+.box-title {
+  color: #483838;
+  font-family: 'Pacifico', cursive;
+  font-size: 50px;
+  padding: 5%;
+  text-align: center;
+}
+.inside-box {
+  padding: 0;
+  position: relative;
+}
+.flower-decoration {
+  margin: 0 2.5%;
+  width: 18%;
+}
+.the-box {
+  margin: 0 4.5% 3% 4.5%;
+  width: 43%;
+}
+.products-title {
+  color: #42855B;
+  font-family: 'Pacifico', cursive;
+  font-size: 36px;
+  padding: 3%;
+  text-align: center;
+}
+.about-box {
+  color: #483838;
+  font-size: 20px;
+  line-height: 1.8;
+  padding: 0 14% 3%;
+}
+#products-carousel {
+  padding-bottom: 8%;
+}
+.carousel-buttons {
+  padding-bottom: 8%;
+}
+.carousel-item-2 {
+  padding: 0 0 0 14%;
+}
+.product-img {
+  display: inline-block;
+  width: 40%;
+}
+.products-text {
+  margin-bottom: 0;
+  padding-left: 5%;
+  display: inline-block;
+  font-size: 2.8vw;
+  vertical-align: middle;
+  width: 45%;
+}
+.carousel-control-prev-icon {
+ background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%2342855B' viewBox='0 0 8 8'%3E%3Cpath d='M5.25 0l-4 4 4 4 1.5-1.5-2.5-2.5 2.5-2.5-1.5-1.5z'/%3E%3C/svg%3E") !important;
+}
+.carousel-control-next-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%2342855B' viewBox='0 0 8 8'%3E%3Cpath d='M2.75 0l-1.5 1.5 2.5 2.5-2.5 2.5 1.5 1.5 4-4-4-4z'/%3E%3C/svg%3E") !important;
+}
+.carousel-control-next-icon,
+.carousel-control-prev-icon {
+  width: 20px;
+}
+.divider-5 {
+  position: absolute;
+  left: 0;
+  top: 95%;
+  width: 100%;
+  z-index: 999;
+}
+.testimonials {
+  background-color: #DAE2B6;
+}
+.testimonials-title {
+  color: #483838;
+  font-family: 'Pacifico', cursive;
+  font-size: 50px;
+  padding: 5%;
+  text-align: center;
+}
+.testimonials-text {
+  padding: 0 10%;
+  text-align: center;
+}
+.testimonials-names {
+  color: #42855B;
+  font-size: 20px;
+  padding: 3%;
+  text-align: center;
+}
 @media screen and (max-width: 600px) {
     #home {
       padding: 20% 0 15% 0;
@@ -260,5 +357,13 @@ i {
      }
      .btn {
        padding-bottom: 6%;
+     }
+  .divider-4 {
+       position: absolute;
+       top: 97.6%;
+     }
+     .divider-5 {
+       position: absolute;
+       top: 97.2%;
      }
 }
