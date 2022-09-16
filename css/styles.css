@@ -168,6 +168,7 @@ i {
 .bonus {
   background-color: #DAE2B6;
   padding: 5% 2%;
+  position: relative;
 }
 .bonus-title {
   color: #483838;
