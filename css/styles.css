@@ -522,18 +522,27 @@ a[aria-expanded=false] .fa-minus {
      }
     .divider-6 {
        position: absolute;
-       top: 93.2%;
+       top: 94.4%;
+     }
+     .card-title {
+       font-size: 28px;
      }
      .btn-spacing-1 {
-       margin-top: 21%;
+       margin-top: 22%;
      }
      .divider-7 {
        position: absolute;
-       top: 97.6%;
+       top: 98.8%;
+     }
+     .faq-button {
+       padding-top: 2%;
+     }
+     .i-faq {
+       margin-top: 2%;
      }
      .divider-8 {
        position: absolute;
-       top: 93.6%;
+       top: 95.6%;
      }
 }
 .music-player {
