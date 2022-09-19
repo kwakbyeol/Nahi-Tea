@@ -310,6 +310,139 @@ i {
   padding: 3%;
   text-align: center;
 }
+.divider-6 {
+  position: absolute;
+  left: 0;
+  top: 86%;
+  width: 100%;
+  z-index: 999;
+}
+.pricing {
+  padding: 2% 1% 5%;
+  position: relative;
+}
+.pricing-title {
+  color: #483838;
+  font-family: 'Pacifico', cursive;
+  font-size: 50px;
+  padding: 5%;
+  text-align: center;
+}
+.prices-col {
+  padding: 0 1%;
+  margin: 0;
+}
+.price-card {
+  background-color: #DFE8CC;
+  border-radius: 25px;
+  display: inline-block;
+  margin: 5% 0;
+  width: 100%;
+}
+.subscribe-time {
+  color: #42855B;
+  font-family: 'Pacifico', cursive;
+  font-size: 36px;
+  text-align: center;
+}
+.price-card-body {
+  text-align: center;
+}
+.card-title {
+  color: #483838;
+}
+.card-text {
+  color: #483838;
+  text-align: left;
+  padding: 0;
+}
+.btn-spacing-1 {
+  margin-top: 18%;
+}
+.btn-spacing-2 {
+  margin-top: 9%;
+}
+.divider-7 {
+  position: absolute;
+  left: 0;
+  top: 90.4%;
+  width: 100%;
+  z-index: 999;
+}
+.faq {
+  background-color: #DAE2B6;
+  padding: 3% 0 5% 15%;
+  position: relative;
+}
+.faq-title {
+  color: #483838;
+  font-family: 'Pacifico', cursive;
+  font-size: 50px;
+  margin: 5% 5% 5% -12%;;
+  text-align: center;
+}
+.faq-button {
+  border-radius: 40px;
+  width: 80%;
+  margin: 0;
+  --bs-btn-bg: #90B77D;
+  --bs-btn-border-color: #90B77D;
+  --bs-btn-hover-bg: #90B77D;
+  --bs-btn-hover-border-color: #90B77D;
+  --bs-btn-active-bg: #90B77D;
+  --bs-btn-active-border-color: #90B77D;
+  --bs-btn-disabled-bg: #90B77D;
+  --bs-btn-disabled-border-color: #90B77D;
+  text-align: left;
+  font-size: 2.5vw;
+  }
+.i-faq {
+  color: #F7EDDB;
+  float: right;
+  margin-top: 1%;
+}
+a[aria-expanded=true] .fa-plus {
+  display: none;
+  transform: rotate(180deg);
+ }
+a[aria-expanded=false] .fa-minus {
+  display: none;
+  transform: rotate(180deg);
+ }
+.faq-card {
+  border: none;
+  --bs-card-bg: none;
+  margin: 0;
+  padding: 0 2% 2%;
+  width:80%;
+}
+.divider-8 {
+  position: absolute;
+  left: 0;
+  top: 91.4%;
+  width: 100%;
+  z-index: 999;
+}
+.contact {
+  padding: 5% 0;
+}
+.icons {
+  text-align: center;
+}
+.contact-icon {
+  margin: 0 2%;
+}
+.contact-logo {
+  color: #483838;
+  font-family: 'Sacramento', cursive;
+  font-size: 50px;
+  text-align: center;
+  padding-top: 3%;
+}
+.disclaimer {
+  color: #483838;
+  text-align: center;
+}
 @media screen and (max-width: 600px) {
     #home {
       padding: 20% 0 15% 0;
@@ -385,6 +518,21 @@ i {
      .testimonials-text {
        padding: 0 10%;
        text-align: center;
+     }
+    .divider-6 {
+       position: absolute;
+       top: 93.2%;
+     }
+     .btn-spacing-1 {
+       margin-top: 21%;
+     }
+     .divider-7 {
+       position: absolute;
+       top: 97.6%;
+     }
+     .divider-8 {
+       position: absolute;
+       top: 93.6%;
      }
 }
 .music-player {
