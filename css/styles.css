@@ -288,6 +288,7 @@ i {
 }
 .testimonials {
   background-color: #DAE2B6;
+  position: relative;
 }
 .testimonials-title {
   color: #483838;
