@@ -524,11 +524,11 @@ a[aria-expanded=false] .fa-minus {
        position: absolute;
        top: 95%;
      }
-     .subscribing-time {
+     .subscribe-time {
        font-size: 28px;
      }
      .btn-spacing-1 {
-       margin-top: 22%;
+       margin-top: 23%;
      }
      .divider-7 {
        position: absolute;
@@ -542,7 +542,7 @@ a[aria-expanded=false] .fa-minus {
      }
      .divider-8 {
        position: absolute;
-       top: 95.6%;
+       top: 96%;
      }
 }
 .music-player {
