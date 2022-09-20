@@ -524,8 +524,8 @@ a[aria-expanded=false] .fa-minus {
        position: absolute;
        top: 95%;
      }
-     .card-title {
-       font-size: 24px;
+     .subscribing-time {
+       font-size: 28px;
      }
      .btn-spacing-1 {
        margin-top: 22%;
@@ -535,7 +535,7 @@ a[aria-expanded=false] .fa-minus {
        top: 98.4%;
      }
      .faq-button {
-       padding-top: 4%;
+       padding-top: 5%;
      }
      .i-faq {
        margin-top: 2%;
