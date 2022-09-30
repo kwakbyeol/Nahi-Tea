@@ -448,6 +448,9 @@ a[aria-expanded=false] .fa-minus {
     #home {
       padding: 20% 0 15% 0;
     }
+    .title-3 {
+      text-align: center;
+    }
     .divider {
       position: absolute;
       top: 97.4%;
@@ -495,6 +498,9 @@ a[aria-expanded=false] .fa-minus {
        position: absolute;
        top: 97.4%;
      }
+     .gift-text {
+       text-align: center;
+     }
      .btn {
        padding-bottom: 6%;
      }
@@ -508,6 +514,9 @@ a[aria-expanded=false] .fa-minus {
      .flower-decoration {
        margin: 0 2.2%;
        width: 18%;
+     }
+     .about-box {
+       text-align: center;
      }
      .divider-5 {
        position: absolute;
@@ -528,7 +537,7 @@ a[aria-expanded=false] .fa-minus {
        font-size: 28px;
      }
      .btn-spacing-1 {
-       margin-top: 23.5%;
+       margin-top: 25.5%;
      }
      .divider-7 {
        position: absolute;
