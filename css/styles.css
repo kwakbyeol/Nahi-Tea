@@ -537,7 +537,7 @@ a[aria-expanded=false] .fa-minus {
        font-size: 28px;
      }
      .btn-spacing-1 {
-       margin-top: 38.5%;
+       margin-top: 42.5%;
      }
      .divider-7 {
        position: absolute;
@@ -556,13 +556,13 @@ a[aria-expanded=false] .fa-minus {
 }
 @media screen and (max-width: 1600px) and (min-width: 601px) {
   .favorite-teas {
-    padding-left: 40%;
+    padding-left: 30%;
   }
   .features-right {
     margin-left: 60%;
   }
   .teacup {
-    left: 30%;
+    left: 26%;
   }
   .btn-spacing-1 {
     margin-top: 15.5%;
